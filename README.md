@@ -1,1 +1,1 @@
-# kenk-stuff
+# Different stuff for administration purposes
